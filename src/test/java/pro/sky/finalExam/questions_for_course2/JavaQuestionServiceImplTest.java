@@ -1,8 +1,8 @@
 package pro.sky.finalExam.questions_for_course2;
 
 import org.junit.jupiter.api.Test;
-import pro.sky.finalExam.questions_for_course2.model.Question;
-import pro.sky.finalExam.questions_for_course2.service.impl.JavaQuestionServiceImpl;
+import pro.sky.finalExam.questions_for_course2.easy.model.Question;
+import pro.sky.finalExam.questions_for_course2.easy.service.impl.JavaQuestionServiceImpl;
 
 import java.util.Collection;
 import java.util.HashSet;

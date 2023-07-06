@@ -1,11 +1,11 @@
-package pro.sky.finalExam.questions_for_course2.controller;
+package pro.sky.finalExam.questions_for_course2.easy.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import pro.sky.finalExam.questions_for_course2.model.Question;
-import pro.sky.finalExam.questions_for_course2.service.QuestionService;
+import pro.sky.finalExam.questions_for_course2.easy.model.Question;
+import pro.sky.finalExam.questions_for_course2.easy.service.QuestionService;
 
 import java.util.Collection;
 

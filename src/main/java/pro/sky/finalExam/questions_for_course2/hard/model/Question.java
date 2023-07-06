@@ -1,4 +1,4 @@
-package pro.sky.finalExam.questions_for_course2.model;
+package pro.sky.finalExam.questions_for_course2.hard.model;
 
 import java.util.Objects;
 

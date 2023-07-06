@@ -1,10 +1,10 @@
-package pro.sky.finalExam.questions_for_course2.service.impl;
+package pro.sky.finalExam.questions_for_course2.easy.service.impl;
 
 import org.springframework.stereotype.Service;
-import pro.sky.finalExam.questions_for_course2.exceptions.ExamException;
-import pro.sky.finalExam.questions_for_course2.model.Question;
-import pro.sky.finalExam.questions_for_course2.service.ExaminerService;
-import pro.sky.finalExam.questions_for_course2.service.QuestionService;
+import pro.sky.finalExam.questions_for_course2.easy.exceptions.ExamException;
+import pro.sky.finalExam.questions_for_course2.easy.service.ExaminerService;
+import pro.sky.finalExam.questions_for_course2.easy.model.Question;
+import pro.sky.finalExam.questions_for_course2.easy.service.QuestionService;
 
 import java.util.ArrayList;
 import java.util.Collection;

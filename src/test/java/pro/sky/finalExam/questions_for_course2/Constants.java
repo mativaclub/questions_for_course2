@@ -1,9 +1,5 @@
 package pro.sky.finalExam.questions_for_course2;
 
-import pro.sky.finalExam.questions_for_course2.model.Question;
-
-import java.util.List;
-
 public class Constants {
 
     public static final String QUESTION_ONE = "Question one";

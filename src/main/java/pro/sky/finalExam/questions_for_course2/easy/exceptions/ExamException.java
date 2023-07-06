@@ -1,4 +1,4 @@
-package pro.sky.finalExam.questions_for_course2.exceptions;
+package pro.sky.finalExam.questions_for_course2.easy.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

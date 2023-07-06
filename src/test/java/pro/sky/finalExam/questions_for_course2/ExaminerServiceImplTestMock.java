@@ -5,10 +5,10 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
-import pro.sky.finalExam.questions_for_course2.exceptions.ExamException;
-import pro.sky.finalExam.questions_for_course2.model.Question;
-import pro.sky.finalExam.questions_for_course2.service.QuestionService;
-import pro.sky.finalExam.questions_for_course2.service.impl.ExaminerServiceImpl;
+import pro.sky.finalExam.questions_for_course2.easy.exceptions.ExamException;
+import pro.sky.finalExam.questions_for_course2.easy.model.Question;
+import pro.sky.finalExam.questions_for_course2.easy.service.QuestionService;
+import pro.sky.finalExam.questions_for_course2.easy.service.impl.ExaminerServiceImpl;
 
 import java.util.*;
 
